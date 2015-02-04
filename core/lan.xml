@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+	<language lan="de" name="German">
+		<lanString key="language">Deutsch</lanString>
+		<lanString key="site1">Erste Seite</lanString>
+		<lanString key="site2">Zweite Seite</lanString>
+	</language>
+	<language lan="en" name="English">
+		<lanString key="language">English</lanString>
+		<lanString key="site1">First Site</lanString>
+		<lanString key="site2">Second Site</lanString>
+	</language>
+</languages>
